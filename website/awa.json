@@ -1,5 +1,5 @@
 {
-  "count": 17,
+  "count": 18,
   "items": [
     {
       "id": 2175676,
@@ -186,6 +186,17 @@
       "publishedAt": "2026-07-31 12:01:16",
       "arp_required": null,
       "keys_left": 2500,
+      "source": "featured"
+    },
+    {
+      "id": 2175731,
+      "title": "Schrodinger's Cat Burglar Alienware Cosmetics Pack",
+      "raw_title": "Schrodinger's Cat Burglar Alienware Cosmetics Pack Key Giveaway",
+      "url": "https://in.alienwarearena.com/ucf/show/2175731/boards/contest-and-giveaways-global/Giveaway/schrodingers-cat-burglar-alienware-cosmetics-pack-key-giveaway",
+      "image": "https://media.alienwarearena.com/media/15b69159df61fb2e98793b5604dbc72c.jpg?fit=crop&width=720&height=405&quality=75",
+      "publishedAt": "2026-07-21 12:22:23",
+      "arp_required": null,
+      "keys_left": 1995,
       "source": "featured"
     }
   ]
