@@ -1,5 +1,5 @@
 {
-  "count": 16,
+  "count": 17,
   "items": [
     {
       "id": 2175676,
@@ -174,7 +174,18 @@
       "image": "https://media.alienwarearena.com/media/7d44e4ba2669edfc7be5426bce874a9d.jpg?fit=crop&width=720&height=405&quality=75",
       "publishedAt": "2026-07-21 12:27:48",
       "arp_required": null,
-      "keys_left": 1799,
+      "keys_left": 1798,
+      "source": "featured"
+    },
+    {
+      "id": 2175826,
+      "title": "Drop Loot",
+      "raw_title": "Drop Loot Playtest Key Giveaway",
+      "url": "https://in.alienwarearena.com/ucf/show/2175826/boards/contest-and-giveaways-global/Giveaway/drop-loot-playtest-key-giveaway",
+      "image": "https://media.alienwarearena.com/media/3d0aae0814a3c8f77e1798340f09f1ba.jpg?fit=crop&width=720&height=405&quality=75",
+      "publishedAt": "2026-07-31 12:01:16",
+      "arp_required": null,
+      "keys_left": 2500,
       "source": "featured"
     }
   ]
