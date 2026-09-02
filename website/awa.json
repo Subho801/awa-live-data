@@ -1,5 +1,5 @@
 {
-  "count": 19,
+  "count": 20,
   "items": [
     {
       "id": 2175676,
@@ -208,6 +208,17 @@
       "publishedAt": "2026-07-31 12:08:15",
       "arp_required": null,
       "keys_left": null,
+      "source": "featured"
+    },
+    {
+      "id": 2176109,
+      "title": "Idle Champions 9th Anniversary Starter Pack",
+      "raw_title": "Idle Champions 9th Anniversary Starter Pack Key Giveaway",
+      "url": "https://in.alienwarearena.com/ucf/show/2176109/boards/contest-and-giveaways-global/Giveaway/idle-champions-9th-anniversary-starter-pack-key-giveaway",
+      "image": "https://media.alienwarearena.com/media/ec2ce1b884537b8160c7f5e36b9f0e4e.jpg?fit=crop&width=720&height=405&quality=75",
+      "publishedAt": "2026-08-26 13:10:06",
+      "arp_required": null,
+      "keys_left": 4997,
       "source": "featured"
     }
   ]
