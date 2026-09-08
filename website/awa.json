@@ -1,5 +1,5 @@
 {
-  "count": 20,
+  "count": 24,
   "items": [
     {
       "id": 2175676,
@@ -219,6 +219,50 @@
       "publishedAt": "2026-08-26 13:10:06",
       "arp_required": null,
       "keys_left": null,
+      "source": "featured"
+    },
+    {
+      "id": 2176141,
+      "title": "SurfsUp Supporter",
+      "raw_title": "SurfsUp Supporter DLC Key Giveaway",
+      "url": "https://in.alienwarearena.com/ucf/show/2176141/boards/contest-and-giveaways-global/Giveaway/surfsup-supporter-dlc-key-giveaway",
+      "image": "https://media.alienwarearena.com/media/19c603ee49f49c075932bcb55e766a65.jpg?fit=crop&width=720&height=405&quality=75",
+      "publishedAt": "2026-08-31 12:02:34",
+      "arp_required": 10,
+      "keys_left": null,
+      "source": "featured"
+    },
+    {
+      "id": 2176140,
+      "title": "Frog Sqwad",
+      "raw_title": "Frog Sqwad Steam Game Key Giveaway",
+      "url": "https://in.alienwarearena.com/ucf/show/2176140/boards/contest-and-giveaways-global/Giveaway/frog-sqwad-steam-game-key-giveaway",
+      "image": "https://media.alienwarearena.com/media/ae29df122030869609835e56a01703f3.jpg?fit=crop&width=720&height=405&quality=75",
+      "publishedAt": "2026-08-31 11:56:32",
+      "arp_required": 25,
+      "keys_left": 2497,
+      "source": "featured"
+    },
+    {
+      "id": 2176139,
+      "title": "SWAPMEAT",
+      "raw_title": "SWAPMEAT Steam Game Key Giveaway",
+      "url": "https://in.alienwarearena.com/ucf/show/2176139/boards/contest-and-giveaways-global/Giveaway/swapmeat-steam-game-key-giveaway",
+      "image": "https://media.alienwarearena.com/media/9abc211e9bd7b821ef956572930eea4e.jpg?fit=crop&width=720&height=405&quality=75",
+      "publishedAt": "2026-08-31 11:50:32",
+      "arp_required": 25,
+      "keys_left": 2497,
+      "source": "featured"
+    },
+    {
+      "id": 2175971,
+      "title": "Doomspire",
+      "raw_title": "Doomspire Steam Game Key Giveaway",
+      "url": "https://in.alienwarearena.com/ucf/show/2175971/boards/contest-and-giveaways-global/Giveaway/doomspire-steam-game-key-giveaway",
+      "image": "https://media.alienwarearena.com/media/43c02769d0c20cc81aea184dd565c76a.jpg?fit=crop&width=720&height=405&quality=75",
+      "publishedAt": "2026-08-05 11:09:30",
+      "arp_required": 10,
+      "keys_left": 4997,
       "source": "featured"
     }
   ]
