@@ -1,5 +1,5 @@
 {
-  "count": 24,
+  "count": 25,
   "items": [
     {
       "id": 2175676,
@@ -263,6 +263,17 @@
       "publishedAt": "2026-08-05 11:09:30",
       "arp_required": 10,
       "keys_left": null,
+      "source": "featured"
+    },
+    {
+      "id": 2176243,
+      "title": "Aniimo Game Pack",
+      "raw_title": "Aniimo Game Pack Key Giveaway",
+      "url": "https://in.alienwarearena.com/ucf/show/2176243/boards/contest-and-giveaways-global/Giveaway/aniimo-game-pack-key-giveaway",
+      "image": "https://media.alienwarearena.com/media/7fabdeb649080a23d07ffbb4056e16b8.jpg?fit=crop&width=720&height=405&quality=75",
+      "publishedAt": "2026-09-16 11:38:05",
+      "arp_required": 10,
+      "keys_left": 4998,
       "source": "featured"
     }
   ]
