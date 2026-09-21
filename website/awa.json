@@ -283,8 +283,8 @@
       "url": "https://in.alienwarearena.com/ucf/show/2176236/boards/demo-items-remember-to-change-before-publish/Giveaway/ride-6-welcome-bikes-pack-key-giveaway",
       "image": "https://media.alienwarearena.com/media/42747395650bfe5209aba79d610e73bb.jpg?fit=crop&width=720&height=405&quality=75",
       "publishedAt": "2026-09-14 12:35:29",
-      "arp_required": null,
-      "keys_left": null,
+      "arp_required": 10,
+      "keys_left": 2500,
       "source": "featured"
     }
   ]
