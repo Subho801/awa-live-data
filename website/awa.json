@@ -273,7 +273,7 @@
       "image": "https://media.alienwarearena.com/media/7fabdeb649080a23d07ffbb4056e16b8.jpg?fit=crop&width=720&height=405&quality=75",
       "publishedAt": "2026-09-16 11:38:05",
       "arp_required": 10,
-      "keys_left": 630,
+      "keys_left": 628,
       "source": "featured"
     },
     {
@@ -317,7 +317,7 @@
       "image": "https://media.alienwarearena.com/media/b2fa0e58bf4bba9e4410ac24350d5d15.jpg?fit=crop&width=720&height=405&quality=75",
       "publishedAt": "2026-09-23 14:41:38",
       "arp_required": 100,
-      "keys_left": 66,
+      "keys_left": null,
       "source": "featured"
     }
   ]
