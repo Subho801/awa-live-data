@@ -1,5 +1,5 @@
 {
-  "count": 29,
+  "count": 30,
   "items": [
     {
       "id": 2175676,
@@ -229,7 +229,7 @@
       "image": "https://media.alienwarearena.com/media/19c603ee49f49c075932bcb55e766a65.jpg?fit=crop&width=720&height=405&quality=75",
       "publishedAt": "2026-08-31 12:02:34",
       "arp_required": 10,
-      "keys_left": 38,
+      "keys_left": 3,
       "source": "featured"
     },
     {
@@ -273,7 +273,7 @@
       "image": "https://media.alienwarearena.com/media/7fabdeb649080a23d07ffbb4056e16b8.jpg?fit=crop&width=720&height=405&quality=75",
       "publishedAt": "2026-09-16 11:38:05",
       "arp_required": 10,
-      "keys_left": 404,
+      "keys_left": 315,
       "source": "featured"
     },
     {
@@ -284,7 +284,7 @@
       "image": "https://media.alienwarearena.com/media/42747395650bfe5209aba79d610e73bb.jpg?fit=crop&width=720&height=405&quality=75",
       "publishedAt": "2026-09-14 12:35:29",
       "arp_required": 10,
-      "keys_left": 1677,
+      "keys_left": 1632,
       "source": "featured"
     },
     {
@@ -306,7 +306,7 @@
       "image": "https://media.alienwarearena.com/media/b3b486236f17195452a1d4fd30e2e9b0.jpg?fit=crop&width=720&height=405&quality=75",
       "publishedAt": "2026-09-14 12:15:47",
       "arp_required": null,
-      "keys_left": 2016,
+      "keys_left": 1547,
       "source": "featured"
     },
     {
@@ -318,6 +318,17 @@
       "publishedAt": "2026-09-23 14:41:38",
       "arp_required": 100,
       "keys_left": null,
+      "source": "featured"
+    },
+    {
+      "id": 2176306,
+      "title": "Scallywags Early",
+      "raw_title": "Scallywags Early Playtest Key Giveaway",
+      "url": "https://in.alienwarearena.com/ucf/show/2176306/boards/contest-and-giveaways-global/Giveaway/scallywags-early-playtest-key-giveaway",
+      "image": "https://media.alienwarearena.com/media/75350316edf5d312d2b14b681d5925eb.jpg?fit=crop&width=720&height=405&quality=75",
+      "publishedAt": "2026-09-28 16:25:20",
+      "arp_required": null,
+      "keys_left": 4670,
       "source": "featured"
     }
   ]
