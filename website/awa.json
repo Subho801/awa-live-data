@@ -1,5 +1,5 @@
 {
-  "count": 30,
+  "count": 31,
   "items": [
     {
       "id": 2175676,
@@ -328,7 +328,18 @@
       "image": "https://media.alienwarearena.com/media/75350316edf5d312d2b14b681d5925eb.jpg?fit=crop&width=720&height=405&quality=75",
       "publishedAt": "2026-09-28 16:25:20",
       "arp_required": null,
-      "keys_left": 1986,
+      "keys_left": 1981,
+      "source": "featured"
+    },
+    {
+      "id": 2176307,
+      "title": "Everwind Exclusive AW-51 Game Pack",
+      "raw_title": "Everwind Exclusive AW-51 Game Pack Key Giveaway",
+      "url": "https://in.alienwarearena.com/ucf/show/2176307/boards/contest-and-giveaways-global/Giveaway/everwind-exclusive-aw-51-game-pack-key-giveaway",
+      "image": "https://media.alienwarearena.com/media/95259d5b068ab935e3a503d7a4ff43c8.jpg?fit=crop&width=720&height=405&quality=75",
+      "publishedAt": "2026-09-28 16:29:11",
+      "arp_required": 10,
+      "keys_left": 4991,
       "source": "featured"
     }
   ]
