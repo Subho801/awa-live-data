@@ -1,5 +1,5 @@
 {
-  "count": 31,
+  "count": 32,
   "items": [
     {
       "id": 2175676,
@@ -340,6 +340,17 @@
       "publishedAt": "2026-09-28 16:29:11",
       "arp_required": 10,
       "keys_left": 3384,
+      "source": "featured"
+    },
+    {
+      "id": 2176286,
+      "title": "Blair Witch",
+      "raw_title": "Blair Witch Steam Game Key Giveaway",
+      "url": "https://in.alienwarearena.com/ucf/show/2176286/boards/contest-and-giveaways-global/Giveaway/blair-witch-steam-game-key-giveaway",
+      "image": "https://media.alienwarearena.com/media/d2a4ffd1916dca5339d43848bda25db1.jpg?fit=crop&width=720&height=405&quality=75",
+      "publishedAt": "2026-09-23 14:49:27",
+      "arp_required": 100,
+      "keys_left": 824,
       "source": "featured"
     }
   ]
