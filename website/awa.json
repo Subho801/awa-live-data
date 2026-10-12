@@ -1,5 +1,5 @@
 {
-  "count": 33,
+  "count": 34,
   "items": [
     {
       "id": 2175676,
@@ -362,6 +362,17 @@
       "publishedAt": "2026-10-05 12:22:00",
       "arp_required": null,
       "keys_left": 1487,
+      "source": "featured"
+    },
+    {
+      "id": 2176357,
+      "title": "Vaultbreakers Alpha Starter Pack",
+      "raw_title": "Vaultbreakers Alpha Starter Pack Key Giveaway",
+      "url": "https://in.alienwarearena.com/ucf/show/2176357/boards/contest-and-giveaways-global/Giveaway/vaultbreakers-alpha-starter-pack-key-giveaway",
+      "image": "https://media.alienwarearena.com/media/4a1b449bb5fa148f89b30a2e9bf5f1ab.jpg?fit=crop&width=720&height=405&quality=75",
+      "publishedAt": "2026-10-05 12:36:00",
+      "arp_required": null,
+      "keys_left": 4992,
       "source": "featured"
     }
   ]
