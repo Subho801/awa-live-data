@@ -1,5 +1,5 @@
 {
-  "count": 34,
+  "count": 35,
   "items": [
     {
       "id": 2175676,
@@ -372,7 +372,18 @@
       "image": "https://media.alienwarearena.com/media/4a1b449bb5fa148f89b30a2e9bf5f1ab.jpg?fit=crop&width=720&height=405&quality=75",
       "publishedAt": "2026-10-05 12:36:00",
       "arp_required": null,
-      "keys_left": 1238,
+      "keys_left": 1235,
+      "source": "featured"
+    },
+    {
+      "id": 2176359,
+      "title": "Cronos: The New Dawn",
+      "raw_title": "Cronos: The New Dawn Steam Game Key Giveaway",
+      "url": "https://in.alienwarearena.com/ucf/show/2176359/boards/contest-and-giveaways-global/Giveaway/cronos-the-new-dawn-steam-game-key-giveaway",
+      "image": "https://media.alienwarearena.com/media/5a1db32e40b2d3a0f12132256db506b7.jpg?fit=crop&width=720&height=405&quality=75",
+      "publishedAt": "2026-10-05 12:54:00",
+      "arp_required": 500,
+      "keys_left": 997,
       "source": "featured"
     }
   ]
