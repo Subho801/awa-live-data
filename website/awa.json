@@ -1,5 +1,5 @@
 {
-  "count": 35,
+  "count": 36,
   "items": [
     {
       "id": 2175676,
@@ -384,6 +384,17 @@
       "publishedAt": "2026-10-05 12:54:00",
       "arp_required": 500,
       "keys_left": null,
+      "source": "featured"
+    },
+    {
+      "id": 2176395,
+      "title": "Fathom Reach",
+      "raw_title": "Fathom Reach Playtest Key Giveaway",
+      "url": "https://in.alienwarearena.com/ucf/show/2176395/boards/contest-and-giveaways-global/Giveaway/fathom-reach-playtest-key-giveaway",
+      "image": "https://media.alienwarearena.com/media/ccfb24f66a084f4b6d6a1a630386cb23.jpg?fit=crop&width=720&height=405&quality=75",
+      "publishedAt": "2026-10-12 12:40:00",
+      "arp_required": null,
+      "keys_left": 4998,
       "source": "featured"
     }
   ]
