@@ -416,7 +416,7 @@
       "image": "https://media.alienwarearena.com/media/b91f763d2ec09ae614c7e741dec65ca6.jpg?fit=crop&width=720&height=405&quality=75",
       "publishedAt": "2026-10-12 12:37:00",
       "arp_required": 200,
-      "keys_left": 92,
+      "keys_left": null,
       "source": "featured"
     }
   ]
