@@ -328,7 +328,7 @@
       "image": "https://media.alienwarearena.com/media/75350316edf5d312d2b14b681d5925eb.jpg?fit=crop&width=720&height=405&quality=75",
       "publishedAt": "2026-09-28 16:25:20",
       "arp_required": null,
-      "keys_left": 4033,
+      "keys_left": 4031,
       "source": "featured"
     },
     {
@@ -426,8 +426,8 @@
       "url": "https://in.alienwarearena.com/ucf/show/2176399/boards/demo-items-remember-to-change-before-publish/Giveaway/mimic-early-access-key-giveaway",
       "image": "https://media.alienwarearena.com/media/32cb05c6efc6b5f0b36b8e9a0969325c.jpg?fit=crop&width=720&height=405&quality=75",
       "publishedAt": "2026-10-13 13:24:00",
-      "arp_required": null,
-      "keys_left": null,
+      "arp_required": 10,
+      "keys_left": 2493,
       "source": "featured"
     }
   ]
