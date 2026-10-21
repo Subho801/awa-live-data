@@ -1,5 +1,5 @@
 {
-  "count": 39,
+  "count": 40,
   "items": [
     {
       "id": 2175676,
@@ -394,7 +394,7 @@
       "image": "https://media.alienwarearena.com/media/ccfb24f66a084f4b6d6a1a630386cb23.jpg?fit=crop&width=720&height=405&quality=75",
       "publishedAt": "2026-10-12 12:40:00",
       "arp_required": null,
-      "keys_left": 1781,
+      "keys_left": 1780,
       "source": "featured"
     },
     {
@@ -428,6 +428,17 @@
       "publishedAt": "2026-10-13 13:24:00",
       "arp_required": 10,
       "keys_left": null,
+      "source": "featured"
+    },
+    {
+      "id": 2176449,
+      "title": "Amnesia: The Bunker",
+      "raw_title": "Amnesia: The Bunker Steam Game Key Giveaway",
+      "url": "https://in.alienwarearena.com/ucf/show/2176449/boards/contest-and-giveaways-global/Giveaway/amnesia-the-bunker-steam-game-key-giveaway",
+      "image": "https://media.alienwarearena.com/media/39ee81df2f945ca2c25ccc45e2bcc629.jpg?fit=crop&width=720&height=405&quality=75",
+      "publishedAt": "2026-10-20 14:41:00",
+      "arp_required": 500,
+      "keys_left": 2488,
       "source": "featured"
     }
   ]
