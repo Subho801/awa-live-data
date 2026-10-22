@@ -328,7 +328,7 @@
       "image": "https://media.alienwarearena.com/media/75350316edf5d312d2b14b681d5925eb.jpg?fit=crop&width=720&height=405&quality=75",
       "publishedAt": "2026-09-28 16:25:20",
       "arp_required": null,
-      "keys_left": 3855,
+      "keys_left": 3853,
       "source": "featured"
     },
     {
@@ -339,7 +339,7 @@
       "image": "https://media.alienwarearena.com/media/95259d5b068ab935e3a503d7a4ff43c8.jpg?fit=crop&width=720&height=405&quality=75",
       "publishedAt": "2026-09-28 16:29:11",
       "arp_required": 10,
-      "keys_left": 2216,
+      "keys_left": 2215,
       "source": "featured"
     },
     {
@@ -394,7 +394,7 @@
       "image": "https://media.alienwarearena.com/media/ccfb24f66a084f4b6d6a1a630386cb23.jpg?fit=crop&width=720&height=405&quality=75",
       "publishedAt": "2026-10-12 12:40:00",
       "arp_required": null,
-      "keys_left": 1686,
+      "keys_left": 1685,
       "source": "featured"
     },
     {
@@ -449,7 +449,7 @@
       "image": "https://media.alienwarearena.com/media/f2aca642de954f0a783e73543a7f077c.jpg?fit=crop&width=720&height=405&quality=75",
       "publishedAt": "2026-10-19 12:08:00",
       "arp_required": 250,
-      "keys_left": 584,
+      "keys_left": 459,
       "source": "featured"
     }
   ]
