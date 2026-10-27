@@ -1,5 +1,5 @@
 {
-  "count": 41,
+  "count": 42,
   "items": [
     {
       "id": 2175676,
@@ -450,6 +450,17 @@
       "publishedAt": "2026-10-19 12:08:00",
       "arp_required": 250,
       "keys_left": null,
+      "source": "featured"
+    },
+    {
+      "id": 2176400,
+      "title": "Layers of Fear",
+      "raw_title": "Layers of Fear Steam Game Key Giveaway",
+      "url": "https://in.alienwarearena.com/ucf/show/2176400/boards/contest-and-giveaways-global/Giveaway/layers-of-fear-steam-game-key-giveaway",
+      "image": "https://media.alienwarearena.com/media/24a81838349f5ab1c8f51f9661a8dc94.jpg?fit=crop&width=720&height=405&quality=75",
+      "publishedAt": "2026-10-13 13:52:00",
+      "arp_required": 250,
+      "keys_left": 989,
       "source": "featured"
     }
   ]
