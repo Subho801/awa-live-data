@@ -1,5 +1,5 @@
 {
-  "count": 42,
+  "count": 43,
   "items": [
     {
       "id": 2175676,
@@ -394,7 +394,7 @@
       "image": "https://media.alienwarearena.com/media/ccfb24f66a084f4b6d6a1a630386cb23.jpg?fit=crop&width=720&height=405&quality=75",
       "publishedAt": "2026-10-12 12:40:00",
       "arp_required": null,
-      "keys_left": 1443,
+      "keys_left": 1442,
       "source": "featured"
     },
     {
@@ -461,6 +461,17 @@
       "publishedAt": "2026-10-13 13:52:00",
       "arp_required": 250,
       "keys_left": null,
+      "source": "featured"
+    },
+    {
+      "id": 2176401,
+      "title": "The Medium",
+      "raw_title": "The Medium Steam Game Key Giveaway",
+      "url": "https://in.alienwarearena.com/ucf/show/2176401/boards/contest-and-giveaways-global/Giveaway/the-medium-steam-game-key-giveaway",
+      "image": "https://media.alienwarearena.com/media/ca0549f84928cccb5e3814609e5d172b.jpg?fit=crop&width=720&height=405&quality=75",
+      "publishedAt": "2026-10-13 13:55:00",
+      "arp_required": 500,
+      "keys_left": 997,
       "source": "featured"
     }
   ]
