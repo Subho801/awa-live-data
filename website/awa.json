@@ -1,5 +1,5 @@
 {
-  "count": 44,
+  "count": 45,
   "items": [
     {
       "id": 2175676,
@@ -483,6 +483,17 @@
       "publishedAt": "2026-10-23 14:40:00",
       "arp_required": 100,
       "keys_left": null,
+      "source": "featured"
+    },
+    {
+      "id": 2176476,
+      "title": "Dead by Daylight 100k Bloodpoints",
+      "raw_title": "Dead by Daylight 100k Bloodpoints Key Giveaway",
+      "url": "https://in.alienwarearena.com/ucf/show/2176476/boards/contest-and-giveaways-global/Giveaway/dead-by-daylight-100k-bloodpoints-key-giveaway",
+      "image": "https://media.alienwarearena.com/media/e582231e86200ead3084bcf7562c9f1f.jpg?fit=crop&width=720&height=405&quality=75",
+      "publishedAt": "2026-10-23 14:27:00",
+      "arp_required": 10,
+      "keys_left": 5000,
       "source": "featured"
     }
   ]
