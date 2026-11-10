@@ -1,5 +1,5 @@
 {
-  "count": 18,
+  "count": 19,
   "items": [
     {
       "id": 2176477,
@@ -197,6 +197,17 @@
       "publishedAt": "2026-10-29 11:46:00",
       "arp_required": 500,
       "keys_left": 2493,
+      "source": "featured"
+    },
+    {
+      "id": 2176523,
+      "title": "Aimlabs 30 Day Trial",
+      "raw_title": "Aimlabs 30 Day Trial Key Giveaway",
+      "url": "https://in.alienwarearena.com/ucf/show/2176523/boards/contest-and-giveaways-global/Giveaway/aimlabs-30-day-trial-key-giveaway",
+      "image": "https://media.alienwarearena.com/media/9b1d10805a831e2a2813ce27a8efaab6.jpg?fit=crop&width=720&height=405&quality=75",
+      "publishedAt": "2026-10-29 11:40:00",
+      "arp_required": 5,
+      "keys_left": 4996,
       "source": "featured"
     }
   ]
